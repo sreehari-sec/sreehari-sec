@@ -20,7 +20,8 @@
 
 ## 🔗 Connect with me
 - LinkedIn: [Your LinkedIn URL here]
-- TryHackMe: [Your TryHackMe profile URL here]
+- TryHackMe: https://tryhackme.com/p/8biterror
+- Blog: https://sreehari-sec.hashnode.dev
 
 ## 📊 TryHackMe Stats
 - Completed: Cyber Security 101 (in progress)
